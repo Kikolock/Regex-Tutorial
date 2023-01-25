@@ -68,7 +68,7 @@ In our example, we use some escape characters to match the pattern:
 - `.` in `([\da-z\.-]+)` and `([a-z\.]{2,6})` is used as an escape character to match the period character itself.
 
 ### Final test
-![My Remote Image]()
+![My Remote Image](https://github.com/Kikolock/Regex-Tutorial/blob/main/test%20done.JPG)
 
 ### Author
 * <a href = "https://github.com/Kikolock"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
